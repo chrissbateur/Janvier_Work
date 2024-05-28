@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../API DEV"
+		},
+		{
+			"path": "../NODE_REST_API_WITH_AUTHENTICATION"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
